@@ -12,50 +12,35 @@ Table of Contents
 - Usage
 - Project Structure
 - Demo
-Acknowledgements
+- Acknowledgements
 
-Project Overview
+Project Overview:
 The Campus Course & Records Manager (CCRM) is a console-based Java application that provides complete management functionality for educational institutions. It handles student registration, course management, enrollment processing, grade recording, and transcript generation with robust file I/O operations and backup utilities.
 
-How to Run
+How to Run:
+
 Ensure JDK 11 or higher is installed
-
 Clone this repository
-
 Navigate to the project directory
-
 Compile: javac -d bin src/edu/ccrm/**/*.java
-
 Run: java -cp bin edu.ccrm.cli.CCRMApplication
-
 Enable assertions (optional): java -ea -cp bin edu.ccrm.cli.CCRMApplication
 
 Java Platform Information
-Evolution of Java
+
+Evolution of Java:
 1995: Java 1.0 - Initial release with core language features
-
 1997: Java 1.1 - Inner classes, JavaBeans, JDBC, RMI
-
 1998: Java 1.2 (J2SE) - Collections Framework, Swing, JIT compiler
-
 2000: Java 1.3 - HotSpot JVM, JNDI, RMI-IIOP
-
 2002: Java 1.4 - Regular expressions, NIO, assertions, XML processing
-
 2004: Java 5 - Generics, annotations, enums, autoboxing, enhanced for-loop
-
 2006: Java 6 - Performance improvements, scripting support, JDBC 4.0
-
 2011: Java 7 - Diamond operator, try-with-resources, NIO.2
-
 2014: Java 8 - Lambda expressions, Stream API, Optional, Date/Time API
-
 2017: Java 9 - Module system, JShell, HTTP/2 client
-
 2018: Java 10 - Local variable type inference (var)
-
 2018: Java 11 - HTTP client, String methods, Flight Recorder
-
 2019-Present: Java 12+ - Text blocks, pattern matching, records, sealed classes
 
 Java Platform Comparison
