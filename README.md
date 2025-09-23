@@ -103,13 +103,13 @@ javac -version
 ## Features
 
 ### Core Functionality
-- ✅ **Student Management**: CRUD operations with validation
-- ✅ **Course Management**: Advanced search and filtering using Stream API
-- ✅ **Enrollment System**: Business rule validation (credit limits, prerequisites)
-- ✅ **Grading System**: Automated GPA calculation with enum-based grades
-- ✅ **Transcript Generation**: Polymorphic reporting with formatted output
-- ✅ **File Operations**: CSV import/export with NIO.2 Path API
-- ✅ **Backup System**: Timestamped backups with recursive directory operations
+-  **Student Management**: CRUD operations with validation
+-  **Course Management**: Advanced search and filtering using Stream API
+-  **Enrollment System**: Business rule validation (credit limits, prerequisites)
+-  **Grading System**: Automated GPA calculation with enum-based grades
+-  **Transcript Generation**: Polymorphic reporting with formatted output
+-  **File Operations**: CSV import/export with NIO.2 Path API
+-  **Backup System**: Timestamped backups with recursive directory operations
 
 ### Advanced Java Features Implemented
 - **Design Patterns**: Singleton (AppConfig), Builder (Course creation)
