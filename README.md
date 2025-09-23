@@ -243,8 +243,6 @@ java -ea -cp src edu.ccrm.cli.CCRMApplication
 | **Exception Handling** | `edu.ccrm.domain.exceptions.*` | Custom checked/unchecked exceptions |
 | **Collections & Generics** | `*Service.java` classes | Type-safe Maps, Lists, Streams |
 | **File I/O (NIO.2)** | `edu.ccrm.io.*` | Path API, Files operations |
-| **Stream API** | `StudentService.getStatistics()` | Filter, map, reduce operations |
-| **Lambda Expressions** | Service search methods | Predicates, comparators |
 | **Date/Time API** | Domain classes | LocalDate, DateTimeFormatter |
 | **Enums** | `Grade.java`, `Semester.java` | Enum constructors, methods |
 | **Nested Classes** | `StudentService.StudentStats` | Static nested class |
