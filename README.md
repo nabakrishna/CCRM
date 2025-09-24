@@ -214,21 +214,20 @@ java -ea -cp src edu.ccrm.cli.CCRMApplication
 ## Screenshots
 
 📸 **Screenshot Directory**: `/screenshots/`
-- `java-installation.png` - JDK installation verification
-<!-- <img width="1040" height="241" alt="image" src="https://github.com/user-attachments/assets/a701276e-810a-4a1c-885d-f85c3271a349" /> -->
+- `version_check.png` - JDK installation verification
+- <img width="1040" height="241" alt="image" src="https://github.com/nabakrishna/CCRM/blob/main/Screensort/version_check.png" />
 
-
-  
+ 
 - `eclipse-setup.png` - Eclipse project configuration
-<!-- <img width="907" height="984" alt="image" src="https://github.com/user-attachments/assets/a1efe1e9-be42-4e3f-99cd-0bcdca51004a" /> -->
+<!-- <img width="907" height="984" alt="image" src="https://github.com/user-attachments/assets/a1efe1e9-be42-4e3f-99cd-0bcdca51004" /> -->
 
   
-- `Project Structure.png` - Project Structure
-<!-- <img width="486" height="607" alt="image" src="https://github.com/user-attachments/assets/4f76f24b-d83f-47d9-883c-b8e72afe2150" /> -->
+- `CCRM_structure.png` - Project Structure
+- <img width="486" height="607" alt="image" src="https://github.com/nabakrishna/CCRM/blob/main/Screensort/CCRM_structure.png" />
 
 
-- `student-management.png` - Student operations demo
-<!-- <img width="745" height="865" alt="image" src="https://github.com/user-attachments/assets/8c3f4e8f-9dcb-401d-9a26-21ad1badbb3d" /> -->
+- `CCRM_addstudent.png` - Student operations demo
+- <img width="745" height="865" alt="image" src="https://github.com/nabakrishna/CCRM/blob/main/Screensort/CCRM_addstudent.png" /> 
 
 
 <!-- <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ebf7d04f-b6a9-4874-8d10-f2967ed9dc34" /> -->
@@ -267,10 +266,10 @@ Exit
 Example: Adding a student
 
 Enter choice: 1
-Student ID: 2410020 |
-Registration Number: 2410020 |
-Full Name: Krishna |
-Email: krishna@gmai.com
+Student ID: 10020 |
+Registration Number: abc10020 |
+Full Name: abc |
+Email: abc@gmai.com
 
 ✅ Student added successfully!
 
