@@ -192,7 +192,7 @@ public interface Searchable<T> {
 ### Compilation & Execution
 Clone the repository
 ```bash
-git clone https://github.com/yourusername/-Campus-Course-Records-Manager-CCRM-
+git clone https://github.com/nabakrishna/CCRM
 ```
 cd CCRM
 
@@ -317,5 +317,5 @@ public class DuplicateEnrollmentException extends RuntimeException {
 ---
 
 **Project Completed**: September 2025  
-**Academic Session**: Semester 3, B.Tech Computer Science  
-**Institution**: Vellore Institute of Technology (VIT)
+**Academic Session**: Semester 3, I. Mtech, CSE 
+**Institution**: Vellore Institute of Technology Bhopal (VITB)
